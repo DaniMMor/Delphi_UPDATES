@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="Gendoc.Images" Type="System.Boolean" Value="True" Category="General" IsBrowsable="False" />
+  <Option Name="Gendoc.NavigationTree" Type="System.Boolean" Value="True" Category="General" IsBrowsable="False" />
+  <Option Name="Gendoc.LaunchBrowser" Type="System.Boolean" Value="True" Category="General" IsBrowsable="False" />
+  <Option Name="Gendoc.OutputFolder" Type="System.String" Value="C:\Users\w7\Documents\GitHub\Delphi_UPDATES\out\doc" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DUP.Controller" Type="System.String" Value="DUP\Controller" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DUP.Model.Conexao" Type="System.String" Value="DUP\Model\Conexao" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DUP.View" Type="System.String" Value="DUP\View" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DUP.Model" Type="System.String" Value="DUP\Model" Category="General" IsBrowsable="False" />
+  <Option Name="namespaceFolder.DUP.Model.Entidades" Type="System.String" Value="DUP\Model\Entidades" Category="General" IsBrowsable="False" />
+</TgConfig>
